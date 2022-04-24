@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practical5</string>
+
+    <string-array name="Images">
+        <item>Image1</item>
+        <item>Image2</item>
+        <item>Image3</item>
+        <item>Image4</item>
+
+    </string-array>
+</resources>
